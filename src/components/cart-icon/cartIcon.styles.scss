@@ -1,0 +1,17 @@
+.cart-container {
+  margin-left: auto;
+  cursor: pointer;
+
+  i {
+    font-size: 1.5rem;
+    margin-right: 5px;
+  }
+
+  .cart-count {
+    margin-left: -10px;
+    background: teal;
+    color: #fff;
+    padding-right: 4px;
+    border-radius: 10px;
+  }
+}
